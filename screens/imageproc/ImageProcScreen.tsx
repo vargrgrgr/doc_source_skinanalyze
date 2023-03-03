@@ -10,6 +10,7 @@ import {
 } from '../../navigators/navigation.types';
 import Container from '../../components/Container';
 import OpenCV from '../../NativeModules/OpenCV';
+import SkinAnalysis from '../../NativeModules/SkinAnalysis';
 import { paddingHorizontal, sleep } from '../../utils/utils';
 import { Face } from '../../custom_modules/vision-camera-face-detector-custom';
 import { Point } from 'react-native-vision-camera'
@@ -364,11 +365,11 @@ const test = () => {
           console.log("dark: "+dark)
           var mask = await OpenCV.getMaskVal();
           console.log("mask: "+mask)
-          var wrinkle = await OpenCV.getWrinkle();
+          var wrinkle = await SkinAnalysis.wrinkle_detection();
           console.log("wrinkle: "+wrinkle)
           var pore= await OpenCV.getPoreVal();
           console.log("pore: "+pore)
-          var trouble = await OpenCV.getTroubleVal();
+          var trouble = await SkinAnalysis.find_trouble();
           console.log("trouble: "+trouble)
           result.oil = 0;
 
