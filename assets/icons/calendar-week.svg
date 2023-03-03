@@ -1,0 +1,7 @@
+<svg id="Group_16502" data-name="Group 16502" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <path id="Path_25349" data-name="Path 25349" d="M0,0H24V24H0Z" fill="none" />
+    <path id="Path_25350" data-name="Path 25350" d="M14.932,2.724H18.38a.862.862,0,0,1,.862.862V17.38a.862.862,0,0,1-.862.862H2.862A.862.862,0,0,1,2,17.38V3.586a.862.862,0,0,1,.862-.862H6.311V1H8.035V2.724h5.173V1h1.724ZM13.207,4.448H8.035V6.173H6.311V4.448H3.724V7.9H17.518V4.448H14.932V6.173H13.207Zm4.311,5.173H3.724v6.9H17.518Z" transform="translate(1.379 2.379)" fill="#5a5a5a" stroke="#fff5ce" stroke-width="0.6" />
+    <text id="W" transform="translate(12 18)" fill="#ffc833" font-size="8" font-family="ProximaNova-Extrabld, ProximaNova-Regular" letter-spacing="-0.02em">
+        <tspan x="-3.544" y="0.22">W</tspan>
+    </text>
+</svg>

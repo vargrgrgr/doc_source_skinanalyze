@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\app_doctorigin\doctorigin-main\android\opencv\.cxx\Debug\46632b2s\x86_64'
+ninja: no work to do.

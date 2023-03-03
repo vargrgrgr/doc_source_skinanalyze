@@ -1,0 +1,3 @@
+D:/app_doctorigin/doctorigin-main/android/opencv/.cxx/RelWithDebInfo/1g104f1k/x86_64/CMakeFiles/opencv_jni_shared.dir
+D:/app_doctorigin/doctorigin-main/android/opencv/.cxx/RelWithDebInfo/1g104f1k/x86_64/CMakeFiles/edit_cache.dir
+D:/app_doctorigin/doctorigin-main/android/opencv/.cxx/RelWithDebInfo/1g104f1k/x86_64/CMakeFiles/rebuild_cache.dir

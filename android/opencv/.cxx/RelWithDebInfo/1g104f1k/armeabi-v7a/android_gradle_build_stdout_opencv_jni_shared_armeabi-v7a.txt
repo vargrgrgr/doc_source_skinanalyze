@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\app_doctorigin\doctorigin-main\android\opencv\.cxx\RelWithDebInfo\1g104f1k\armeabi-v7a'
+ninja: no work to do.

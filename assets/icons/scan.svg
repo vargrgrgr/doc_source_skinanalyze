@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g id="Group_16029" data-name="Group 16029" transform="translate(-176 -943)">
+        <g id="Group_16028" data-name="Group 16028" transform="translate(-35)">
+            <g id="fullscreen-line" transform="translate(211 943)">
+                <path id="Path_24626" data-name="Path 24626" d="M0,0H24V24H0Z" fill="none" />
+                <path id="Path_24627" data-name="Path 24627" d="M20,3h2V9H20V5H16V3ZM4,3H8V5H4V9H2V3ZM20,19V15h2v6H16V19ZM4,19H8v2H2V15H4Z" fill="currentColor" />
+            </g>
+            <g id="Group_16027" data-name="Group 16027" transform="translate(-230.762 432.518)">
+                <path id="Path_24628" data-name="Path 24628" d="M450.868,521.073a1.186,1.186,0,1,1-1.188-1.187A1.186,1.186,0,0,1,450.868,521.073Z" transform="translate(0 -0.141)" fill="currentColor" stroke="currentColor" stroke-width="0.5" />
+                <path id="Path_24631" data-name="Path 24631" d="M450.868,521.073a1.186,1.186,0,1,1-1.188-1.187A1.186,1.186,0,0,1,450.868,521.073Z" transform="translate(8.022 -0.141)" fill="currentColor" stroke="currentColor" stroke-width="0.5" />
+            </g>
+        </g>
+        <path id="Path_24632" data-name="Path 24632" d="M-21282.781-20517.105s4.242,4.363,8.168,0" transform="translate(21466.699 21474)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="1.5" />
+    </g>
+</svg>
+  

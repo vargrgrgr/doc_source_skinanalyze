@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "907950154184",
+    "firebase_url": "https://doctorigin-b0005-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "doctorigin-b0005",
+    "storage_bucket": "doctorigin-b0005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907950154184:android:24ae9c574d0a7f9e0da0fd",
+        "android_client_info": {
+          "package_name": "com.doctorigin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907950154184-5c4g9anuohr6rsqpuvc83vr6a4pbiido.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doctorigin",
+            "certificate_hash": "ecd4a2ed86c4ae03b6eb89af424dde0d5fcdfc91"
+          }
+        },
+        {
+          "client_id": "907950154184-7qc2q3kn5nic3mo0livubq8fg3dn4s55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdrTEQr0BMGBI6KFOHAMSxFbwpNkWzZ9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907950154184-7qc2q3kn5nic3mo0livubq8fg3dn4s55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

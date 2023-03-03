@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="Rectangle_4120" data-name="Rectangle 4120" width="24" height="24" transform="translate(50 796)" fill="#fff" stroke="#5a5a5a" stroke-width="1" />
+        </clipPath>
+    </defs>
+    <g id="Mask_Group_107" data-name="Mask Group 107" transform="translate(-50 -796)" clip-path="url(#clip-path)">
+        <g id="Group_16698" data-name="Group 16698" transform="translate(19343.551 20980.877)">
+            <path id="Path_25592" data-name="Path 25592" d="M-19272.455-20163.783l3.074,3.074" transform="translate(-13.545 -13.543)" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1" />
+            <path id="Path_25593" data-name="Path 25593" d="M-19272.455-20160.709l3.074-3.074" transform="translate(-13.545 -7.35)" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1" />
+            <path id="Path_25594" data-name="Path 25594" d="M-19269.381-20163.783l-3.074,3.074" transform="translate(-7.351 -13.543)" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1" />
+            <path id="Path_25595" data-name="Path 25595" d="M-19269.381-20160.709l-3.074-3.074" transform="translate(-7.351 -7.35)" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1" />
+            <path id="Path_25596" data-name="Path 25596" d="M-19257.715-20176.25v-6.551" transform="translate(-23.48 -1.076)" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1" />
+            <path id="Path_25597" data-name="Path 25597" d="M-19257.715-20176.25v-6.551" transform="translate(-23.48 14.743)" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1" />
+            <path id="Path_25598" data-name="Path 25598" d="M0,6.55V0" transform="translate(-19270.18 -20172.748) rotate(90)" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1" />
+            <path id="Path_25599" data-name="Path 25599" d="M0,6.55V0" transform="translate(-19286 -20172.748) rotate(90)" fill="none" stroke="#5a5a5a" stroke-linecap="round" stroke-width="1" />
+        </g>
+    </g>
+</svg>
+  

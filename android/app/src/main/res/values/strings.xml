@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">닥터리진</string>
+    <string name="kakao_app_key">22901ad83c90a9e91d726c2c851492eb</string>
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+</resources>
+

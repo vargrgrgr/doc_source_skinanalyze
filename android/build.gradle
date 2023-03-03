@@ -1,0 +1,71 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {4
+
+    ext {
+        minSdkVersion = 26
+        compileSdkVersion = 31
+        targetSdkVersion = 31
+        ndkVersion = "21.4.7075529"
+        kotlinVersion = '1.7.20' // kakao login
+        googlePlayServicesAuthVersion = "19.2.0" // google login
+        androidXCore = "1.7.0" // netinfo
+    }
+    repositories {
+        mavenCentral()
+        mavenLocal()
+
+        maven {
+            // All of React Native (JS, Obj-C sources, Android binaries) is installed from npm
+            url("$rootDir/../node_modules/react-native/android")
+        }
+        maven {
+            // Android JSC is installed from npm
+            url("$rootDir/../node_modules/jsc-android/dist")
+        }
+
+        maven {
+            // kakao login
+            url 'https://devrepo.kakao.com/nexus/content/groups/public/'
+        }
+
+
+        google()
+        maven { url 'https://www.jitpack.io' }
+        jcenter() // naver login
+    }
+    dependencies {
+        classpath('com.android.tools.build:gradle:7.3.1')
+        classpath('com.google.gms:google-services:4.3.14')
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:1.7.20" // kakao login
+        classpath "com.squareup:javapoet:1.13.0"
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        mavenCentral()
+        mavenLocal()
+
+        maven {
+            // All of React Native (JS, Obj-C sources, Android binaries) is installed from npm
+            url("$rootDir/../node_modules/react-native/android")
+        }
+        maven {
+            // Android JSC is installed from npm
+            url("$rootDir/../node_modules/jsc-android/dist")
+        }
+
+        maven {
+            // kakao login
+            url 'https://devrepo.kakao.com/nexus/content/groups/public/'
+        }
+
+
+        google()
+        maven { url 'https://www.jitpack.io' }
+        jcenter() // naver login
+    }
+}

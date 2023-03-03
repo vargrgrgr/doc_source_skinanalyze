@@ -1,0 +1,7 @@
+Executable : E:\sdk\cmake\3.18.1\bin\ninja.exe
+arguments : 
+-C
+F:\doctorigin\doctorigin-main\android\opencv\.cxx\RelWithDebInfo\1u1p2u67\arm64-v8a
+opencv_jni_shared
+jvmArgs : 
+

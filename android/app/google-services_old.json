@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "44519030696",
+    "project_id": "doctorigin-6a6f4",
+    "storage_bucket": "doctorigin-6a6f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44519030696:android:5ffe1cd65e13e69565679d",
+        "android_client_info": {
+          "package_name": "com.doctorigin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44519030696-au961duvgfl6tcgefcrbclit350lnbto.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doctorigin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "44519030696-04aeloakm5a9066hmva44u52g1osu524.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBolKHPW3QD3HwHG7tnHalhFM-IEHW3is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44519030696-04aeloakm5a9066hmva44u52g1osu524.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

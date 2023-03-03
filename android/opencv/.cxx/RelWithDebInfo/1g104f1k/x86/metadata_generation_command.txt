@@ -1,0 +1,24 @@
+                    Executable : D:\android_sdk\cmake\3.18.1\bin\cmake.exe
+arguments : 
+-HD:\app_doctorigin\doctorigin-main\android\opencv\libcxx_helper
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=26
+-DANDROID_PLATFORM=android-26
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=D:\android_sdk\ndk\21.4.7075529
+-DCMAKE_ANDROID_NDK=D:\android_sdk\ndk\21.4.7075529
+-DCMAKE_TOOLCHAIN_FILE=D:\android_sdk\ndk\21.4.7075529\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\android_sdk\cmake\3.18.1\bin\ninja.exe
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\app_doctorigin\doctorigin-main\android\opencv\build\intermediates\cxx\RelWithDebInfo\1g104f1k\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\app_doctorigin\doctorigin-main\android\opencv\build\intermediates\cxx\RelWithDebInfo\1g104f1k\obj\x86
+-DCMAKE_BUILD_TYPE=RelWithDebInfo
+-BD:\app_doctorigin\doctorigin-main\android\opencv\.cxx\RelWithDebInfo\1g104f1k\x86
+-GNinja
+-DANDROID_STL=c++_shared
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

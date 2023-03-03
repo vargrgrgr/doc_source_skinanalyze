@@ -1,0 +1,1 @@
+F:\app_doctorigin\doctorigin-main\android\opencv\build\intermediates\cmake\debug\obj\x86

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_4184" data-name="Rectangle 4184" width="24" height="24" transform="translate(86 204)" fill="#fff" stroke="#707070" stroke-width="1" />
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_112" data-name="Mask Group 112" transform="translate(-86 -204)" clip-path="url(#clip-path)">
+    <g id="Group_16724" data-name="Group 16724" transform="translate(41.382 -17.333)">
+      <rect id="Rectangle_4182" data-name="Rectangle 4182" width="20.479" height="13.882" rx="2" transform="translate(46 226.27)" fill="#fff5ce" stroke="#5a5a5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+      <rect id="Rectangle_4183" data-name="Rectangle 4183" width="20.479" height="2.852" transform="translate(46 229.174)" fill="#83b542" stroke="#5a5a5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+      <line id="Line_151" data-name="Line 151" x2="0.845" transform="translate(48.983 235.007)" fill="#fff" stroke="#5a5a5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+      <line id="Line_152" data-name="Line 152" x2="0.845" transform="translate(51.663 235.007)" fill="#fff" stroke="#5a5a5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+      <line id="Line_153" data-name="Line 153" x2="0.845" transform="translate(54.342 235.007)" fill="#fff" stroke="#5a5a5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+      <line id="Line_154" data-name="Line 154" x2="0.845" transform="translate(57.022 235.007)" fill="#fff" stroke="#5a5a5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+      <line id="Line_155" data-name="Line 155" x2="4.299" transform="translate(48.983 237.03)" fill="#fff" stroke="#5a5a5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+      <circle id="Ellipse_3517" data-name="Ellipse 3517" cx="1.312" cy="1.312" r="1.312" transform="translate(61.169 235.007)" fill="#fff5ce" stroke="#5a5a5a" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" />
+    </g>
+  </g>
+</svg>
